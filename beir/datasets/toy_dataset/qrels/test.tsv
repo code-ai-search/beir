@@ -1,2 +1,6 @@
 q1	doc1	1
 q2	doc2	1
+q3	doc3	1
+q4	doc4	2
+q4	doc2	0
+q5	doc5	0
